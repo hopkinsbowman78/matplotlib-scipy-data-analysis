@@ -31,7 +31,7 @@ To tackle this challenge I...
 ## Table of Contents
 
 #### Pymaceuticals                    
-+ pymaceuticals_starter.ipynb (Includes code and written analysis)
++ Pymaceuticals.ipynb (Includes code and written analysis)
 + data folder (Mouse_metadata.csv, Study_results.csv)
 
 #### ReadMe
