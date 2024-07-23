@@ -1,7 +1,7 @@
 # matplotlib_challenge
 
 
-In this challenge, I utilized Matplotlib to analyze pharmaceutical company that specializes in anti-cancer medications data. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
+In this challenge, I utilized Matplotlib to analyze data for a pharmaceutical company that specializes in anti-cancer medications. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
 
 ## Synopsis of Process
