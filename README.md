@@ -13,7 +13,8 @@ To tackle this challenge I...
 3. Looked back at Bootcamp class activites to find code to accomplish processes.
 4. Researched the resources listed below to find additional, or more elegant, code.
 5. Cleaned and tested scripts.
-6. Used observations to create an analysis. 
+6. Used observations to create an analysis.
+7. Updated code based on feedback.
    
 
 
