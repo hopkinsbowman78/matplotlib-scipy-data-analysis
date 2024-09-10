@@ -21,6 +21,8 @@ To tackle this challenge I...
 ## Resources
 
    
++ Matplotlib Documentation (https://matplotlib.org/stable/index.html)
+
 + Xpert Learning Assistant
 
 + ChatGPT
