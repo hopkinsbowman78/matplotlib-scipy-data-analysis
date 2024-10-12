@@ -37,4 +37,6 @@ To tackle this challenge I...
 + Pymaceuticals.ipynb (Includes code and written analysis)
 + data folder (Mouse_metadata.csv, Study_results.csv)
 
+#### Module 5 Matplotlib Challenge (Original Challenge Requirements)
+
 #### ReadMe
